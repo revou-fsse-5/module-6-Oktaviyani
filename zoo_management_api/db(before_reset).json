@@ -1,0 +1,364 @@
+{
+    "animals": [
+        {
+            "species": "Elephant",
+            "name": "Dumbo the kind",
+            "age": "9",
+            "id": 2
+        },
+        {
+            "species": "Zebra",
+            "name": "Marty",
+            "age": 3,
+            "id": 3
+        },
+        {
+            "species": "Snake",
+            "name": "Sniki",
+            "age": 2,
+            "id": 4
+        },
+        {
+            "species": "Lion",
+            "name": "Simba",
+            "age": 4,
+            "id": 6
+        },
+        {
+            "species": "Elephant",
+            "name": "Dumbo",
+            "age": 10,
+            "id": 7
+        },
+        {
+            "species": "Dog",
+            "name": "Yuki",
+            "age": 4,
+            "id": 8
+        },
+        {
+            "species": "Cat",
+            "name": "Nami",
+            "age": 1,
+            "id": 9
+        },
+        {
+            "species": "Dog",
+            "name": "Yuki",
+            "age": 4,
+            "id": 9
+        },
+        {
+            "species": "Cat",
+            "name": "Nami",
+            "age": 1,
+            "id": 10
+        },
+        {
+            "age": 3,
+            "name": "Simba",
+            "species": "Lion",
+            "id": 11
+        },
+        {
+            "age": 7,
+            "name": "Dumbo",
+            "species": "Elephant",
+            "id": 12
+        },
+        {
+            "age": 5,
+            "name": "Shera",
+            "species": "Tiger",
+            "id": 13
+        },
+        {
+            "age": 4,
+            "name": "Melman",
+            "species": "Giraffe",
+            "id": 14
+        },
+        {
+            "age": 6,
+            "name": "Marty",
+            "species": "Zebra",
+            "id": 15
+        },
+        {
+            "age": 2,
+            "name": "Skipper",
+            "species": "Penguin",
+            "id": 16
+        },
+        {
+            "age": 3,
+            "name": "Simba",
+            "species": "Lion",
+            "id": 16
+        },
+        {
+            "age": 7,
+            "name": "Dumbo",
+            "species": "Elephant",
+            "id": 17
+        },
+        {
+            "age": 5,
+            "name": "Shera",
+            "species": "Tiger",
+            "id": 18
+        },
+        {
+            "age": 4,
+            "name": "Melman",
+            "species": "Giraffe",
+            "id": 19
+        },
+        {
+            "age": 6,
+            "name": "Marty",
+            "species": "Zebra",
+            "id": 20
+        },
+        {
+            "age": 2,
+            "name": "Skipper",
+            "species": "Penguin",
+            "id": 21
+        },
+        {
+            "age": 3,
+            "name": "Simba",
+            "species": "Lion",
+            "id": 22
+        },
+        {
+            "age": 7,
+            "name": "Dumbo",
+            "species": "Elephant",
+            "id": 23
+        },
+        {
+            "age": 5,
+            "name": "Shera",
+            "species": "Tiger",
+            "id": 24
+        },
+        {
+            "age": 4,
+            "name": "Melman",
+            "species": "Giraffe",
+            "id": 25
+        },
+        {
+            "age": 6,
+            "name": "Marty",
+            "species": "Zebra",
+            "id": 26
+        },
+        {
+            "age": 2,
+            "name": "Skipper",
+            "species": "Penguin",
+            "id": 27
+        },
+        {
+            "age": 3,
+            "name": "Simba",
+            "species": "Lion",
+            "id": 28
+        },
+        {
+            "age": 7,
+            "name": "Dumbo",
+            "species": "Elephant",
+            "id": 29
+        },
+        {
+            "age": 5,
+            "name": "Shera",
+            "species": "Tiger",
+            "id": 30
+        },
+        {
+            "age": 4,
+            "name": "Melman",
+            "species": "Giraffe",
+            "id": 31
+        },
+        {
+            "age": 6,
+            "name": "Marty",
+            "species": "Zebra",
+            "id": 32
+        },
+        {
+            "age": 2,
+            "name": "Skipper",
+            "species": "Penguin",
+            "id": 33
+        }
+    ],
+    "employees": [
+        {
+            "name": "Justin",
+            "position": "Musician",
+            "id": 3
+        },
+        {
+            "name": "Krab",
+            "position": "Developer",
+            "id": 4
+        },
+        {
+            "name": "Garnacho",
+            "position": "Shooter",
+            "id": 5
+        },
+        {
+            "name": "Paes",
+            "position": "keeper",
+            "id": 6
+        },
+        {
+            "name": "John Doe",
+            "position": "Zookeeper",
+            "id": 7
+        },
+        {
+            "name": "Jane Smith",
+            "position": "Veterinarian",
+            "id": 8
+        },
+        {
+            "name": "John Doe",
+            "position": "Zookeeper",
+            "id": 7
+        },
+        {
+            "name": "Jane Smith",
+            "position": "Veterinarian",
+            "id": 8
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 9
+        },
+        {
+            "name": "Bob",
+            "position": "Veterinarian",
+            "id": 10
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 11
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 12
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 13
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 14
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 15
+        },
+        {
+            "name": "Bob",
+            "position": "Veterinarian",
+            "id": 16
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 17
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 18
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 19
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 20
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 21
+        },
+        {
+            "name": "Bob",
+            "position": "Veterinarian",
+            "id": 22
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 23
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 24
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 25
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 26
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 27
+        },
+        {
+            "name": "Bob",
+            "position": "Veterinarian",
+            "id": 28
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 29
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 30
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 31
+        },
+        {
+            "name": "Alice",
+            "position": "Zookeeper",
+            "id": 32
+        }
+    ]
+}

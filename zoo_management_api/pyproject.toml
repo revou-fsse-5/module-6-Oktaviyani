@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 flask = "^3.0.3"
+pytest = "^8.3.4"
+pytest-cov = "^6.0.0"
 
 
 [build-system]
